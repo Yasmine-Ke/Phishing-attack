@@ -1,4 +1,4 @@
-
+<img width="320" alt="Screenshot_2024-07-06_00-16-46" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/f98193e5-544b-429d-8983-c519c34c001a">
 
 ## Rapport d'Attaque de Phishing Utilisant Ngrok et SEToolkit
 
@@ -38,7 +38,7 @@ Cela est particulièrement utile pour tester et déboguer des applications web, 
    - Copiez le lien de connexion de votre compte ngrok depuis l'application ngrok.
    - Dans le terminal, exécutez :
      ```bash
-     ./ngrok authtoken <votre_token_ngrok>
+     ./ngrok <votre_token_ngrok>
      ```
 
 #### 3. Utilisation de SEToolkit pour Configurer l'Attaque de Phishing
@@ -69,6 +69,18 @@ Cela est particulièrement utile pour tester et déboguer des applications web, 
      ./ngrok http 80
      ```
    - Ngrok générera un lien public (par exemple, `http://<ngrok_subdomain>.ngrok.io`).
+![Description de l'image](![Screenshot_2024-07-06_00-15-08](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/174e1386-4acd-485c-9e99-7657df751694)
+)
+![Description de l'image](![Screenshot_2024-07-06_00-15-55](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/61075348-2a97-4305-a88a-465f1fcd0830)
+)
+
+![Description de l'image](![Screenshot_2024-07-06_00-16-19](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/c8a1ecc4-995e-453f-a7d8-c58ceeac1f04)
+)
+
+![Description de l'image](<img width="320" alt="Screenshot_2024-07-06_00-16-46" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/4a7d5e8f-4ec7-4e06-8555-ddad9c5cc989">
+)
+
+
 
 10. **Utilisation du Lien Ngrok :**
     - Envoyez ce lien à votre cible. Lorsque la cible visite ce lien et entre ses informations d'identification, ces informations seront capturées.
@@ -78,4 +90,4 @@ Cela est particulièrement utile pour tester et déboguer des applications web, 
     - Revenez au terminal où SEToolkit est en cours d'exécution. Les informations saisies par la cible seront affichées dans ce terminal.
 
 ### Conclusion
-Ce rapport décrit les étapes pour configurer et mener une attaque de phishing en utilisant ngrok et SEToolkit. Il est essentiel de rappeler que ces techniques ne doivent être utilisées que pour des tests de sécurité légitimes et des démonstrations éducatives. L'utilisation non autorisée de ces techniques est illégale et contraire à l'éthique.
+Ce rapport décrit les étapes pour configurer et mener une attaque de phishing en utilisant ngrok et SEToolkit. 
