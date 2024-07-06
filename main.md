@@ -71,11 +71,24 @@ Cela est particulièrement utile pour tester et déboguer des applications web, 
    - Ngrok générera un lien public (par exemple, `http://<ngrok_subdomain>.ngrok.io`).
    -
    -
-   - <img width="320" alt="Screenshot_2024-07-06_00-16-46" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/f98193e5-544b-429d-8983-c519c34c001a">
+   - 
    <img width="320" alt="Screenshot_2024-07-06_00-15-08" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/44509ff4-161d-4865-aee4-4803d96177f8">
    
- <img width="320" alt="Screenshot_2024-07-06_00-15-55" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/ca7bf280-5717-4bed-b6dd-44b18a806b8f
-">
+ <img width="320" alt="Screenshot_2024-07-06_00-15-55" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/ca7bf280-5717-4bed-b6dd-44b18a806b8f">
+
+ <img width="320" alt="Screenshot_2024-07-06_00-16-19»" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/74ebd791-28c3-4bc3-ad29-24672718dd08">
+
+ <img width="320" alt="Screenshot_2024-07-06_00-16-46" src="https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/f98193e5-544b-429d-8983-c519c34c001a">
+Ngrok générera un lien public (par exemple, `http://<ngrok_subdomain>.ngrok.io`).
+
+1. 
+   ![Screenshot_2024-07-06_00-15-08](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/44509ff4-161d-4865-aee4-4803d96177f8)
+2. 
+   ![Screenshot_2024-07-06_00-15-55](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/ca7bf280-5717-4bed-b6dd-44b18a806b8f)
+3. 
+   ![Screenshot_2024-07-06_00-16-19](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/74ebd791-28c3-4bc3-ad29-24672718dd08)
+4. 
+   ![Screenshot_2024-07-06_00-16-46](https://github.com/Yasmine-Ke/Phishing-attack/assets/123758173/f98193e5-544b-429d-8983-c519c34c001a)
 
 10. **Utilisation du Lien Ngrok :**
     - Envoyez ce lien à votre cible. Lorsque la cible visite ce lien et entre ses informations d'identification, ces informations seront capturées.
